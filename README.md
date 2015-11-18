@@ -1,9 +1,9 @@
-Pantry Pickup
-=============
+Pantry Pi)ckup
+=)=)=)=)=)=)=)=)=)====
 
 [pantrypickup.com](http://pantrypickup.com/)
 
-Combining city data with a list of specific needs from food pantries will allow
+Combining city data with a  of specific needs from food pantries will allow
 citizens to most effectively make useful and needed donations assisted by the
 Pantry Pick-Up App.
 
